@@ -1,6 +1,6 @@
 # description
 
-基于MTCNN(https://github.com/DuinoDu/mtcnn)的客流量计数系统
+基于 MTCNN(https://github.com/DuinoDu/mtcnn) 的客流量计数系统
 
 ### Requirement
 0. ubuntu
